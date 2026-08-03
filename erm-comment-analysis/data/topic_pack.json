@@ -1,0 +1,198 @@
+{
+  "name": "Oil & gas / maritime (example)",
+  "topics": [
+    {
+      "code": "oil_spill_risk",
+      "label": "Oil spill risk",
+      "keywords": [
+        "oil spill",
+        "spill",
+        "deepwater horizon",
+        "blowout",
+        "leak",
+        "catastrophic"
+      ],
+      "description": "oil spills, leaks, blowouts, spill response, Deepwater Horizon, catastrophic accident"
+    },
+    {
+      "code": "climate_emissions",
+      "label": "Climate emissions",
+      "keywords": [
+        "climate change",
+        "greenhouse gas",
+        "emissions",
+        "co2",
+        "fossil fuel",
+        "carbon"
+      ],
+      "description": "climate change, greenhouse gas, CO2, fossil fuel expansion, emissions"
+    },
+    {
+      "code": "air_quality",
+      "label": "Air quality",
+      "keywords": [
+        "air quality",
+        "air pollution",
+        "ozone",
+        "smog",
+        "nox"
+      ],
+      "description": "air pollution, ozone, NOx, local air health"
+    },
+    {
+      "code": "environmental_justice",
+      "label": "Environmental justice",
+      "keywords": [
+        "environmental justice",
+        "low-income",
+        "minority communities",
+        "frontline"
+      ],
+      "description": "impact on low-income / minority / coastal communities, fairness, EJ"
+    },
+    {
+      "code": "marine_wildlife",
+      "label": "Marine wildlife",
+      "keywords": [
+        "sea turtle",
+        "marine mammal",
+        "dolphin",
+        "whale",
+        "bird",
+        "habitat",
+        "wildlife"
+      ],
+      "description": "sea turtles, marine mammals, dolphins, whales, birds, habitat, ecosystems"
+    },
+    {
+      "code": "fisheries",
+      "label": "Fisheries",
+      "keywords": [
+        "fishery",
+        "fisheries",
+        "shrimp",
+        "commercial fishing",
+        "fishermen",
+        "fishing"
+      ],
+      "description": "fishing industry, shrimp, commercial fishing, fishermen, fishery impacts"
+    },
+    {
+      "code": "wetlands_coast",
+      "label": "Wetlands coast",
+      "keywords": [
+        "wetlands",
+        "coastline",
+        "erosion",
+        "storm surge",
+        "sea level rise",
+        "flooding"
+      ],
+      "description": "wetlands, coastline, erosion, storm surge, sea-level rise, flooding"
+    },
+    {
+      "code": "national_interest",
+      "label": "National interest",
+      "keywords": [
+        "national interest",
+        "not in the national interest",
+        "public interest"
+      ],
+      "description": "whether the project is / isn't in the national interest (general opinion)"
+    }
+  ],
+  "acronyms": {
+    "APA": {
+      "full": "Administrative Procedure Act",
+      "category": "Statute"
+    },
+    "CAA": {
+      "full": "Clean Air Act",
+      "category": "Statute"
+    },
+    "CFR": {
+      "full": "Code of Federal Regulations",
+      "category": "Regulation"
+    },
+    "CWA": {
+      "full": "Clean Water Act",
+      "category": "Statute"
+    },
+    "CZMA": {
+      "full": "Coastal Zone Management Act",
+      "category": "Statute"
+    },
+    "DEIS": {
+      "full": "Draft EIS",
+      "category": "EIS document"
+    },
+    "DWPA": {
+      "full": "Deepwater Port Act",
+      "category": "Statute"
+    },
+    "EIS": {
+      "full": "Environmental Impact Statement",
+      "category": "EIS document"
+    },
+    "EPA": {
+      "full": "Environmental Protection Agency",
+      "category": "Agency"
+    },
+    "ESA": {
+      "full": "Endangered Species Act",
+      "category": "Statute"
+    },
+    "FEIS": {
+      "full": "Final EIS",
+      "category": "EIS document"
+    },
+    "MARAD": {
+      "full": "Maritime Administration",
+      "category": "Agency"
+    },
+    "MBTA": {
+      "full": "Migratory Bird Treaty Act",
+      "category": "Statute"
+    },
+    "MMPA": {
+      "full": "Marine Mammal Protection Act",
+      "category": "Statute"
+    },
+    "NEPA": {
+      "full": "National Environmental Policy Act",
+      "category": "Statute"
+    },
+    "NHPA": {
+      "full": "National Historic Preservation Act",
+      "category": "Statute"
+    },
+    "NOAA": {
+      "full": "NOAA",
+      "category": "Agency"
+    },
+    "OCSLA": {
+      "full": "Outer Continental Shelf Lands Act",
+      "category": "Statute"
+    },
+    "ROD": {
+      "full": "Record of Decision",
+      "category": "Decision document"
+    },
+    "SDEIS": {
+      "full": "Supplemental EIS",
+      "category": "EIS document"
+    },
+    "USACE": {
+      "full": "Army Corps of Engineers",
+      "category": "Agency"
+    },
+    "USCG": {
+      "full": "Coast Guard",
+      "category": "Agency"
+    },
+    "USFWS": {
+      "full": "Fish & Wildlife Service",
+      "category": "Agency"
+    }
+  }
+}

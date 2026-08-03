@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+google-genai
+requests
+datasketch
+bertopic
+sentence-transformers
+umap-learn
+hdbscan
+scikit-learn
+matplotlib
+openpyxl
